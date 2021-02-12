@@ -27,4 +27,4 @@ You can check out how I solved it in clean method in cleaner.py. **Read about No
 The cleaner.py contain the entire code.
 The names.txt contain the names which are banned by the ministry.
 The Input.txt is a custom document to check how well it performs.
-The output.txt is the desired output for the custom input.
+The output.rtf is the desired output for the custom input.
