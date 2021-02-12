@@ -24,7 +24,10 @@ You can check out how I solved it in clean method in cleaner.py. **Read about No
 3.I finally used backreferencing which helped me to return the number of spaces directly. I grouped the raw pattern in such a way that spaces were inside a () and used backreferencing to add that many spaces while replacing. In this way the entire banned full name was replaced with an entire replacement name and it was fast!!!
 
 ## File Descriptions:
-The cleaner.py contain the entire code.
-The names.txt contain the names which are banned by the ministry.
-The Input.txt is a custom document to check how well it performs.
-The output.rtf is the desired output for the custom input.
+1.The cleaner.py contain the entire code.
+
+2.The names.txt contain the names which are banned by the ministry.
+
+3.The Input.txt is a custom document to check how well it performs.
+
+4.The output.rtf is the desired output for the custom input.
